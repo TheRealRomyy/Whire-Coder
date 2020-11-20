@@ -6,6 +6,3 @@
 <img alt="Rome's Github stats" src="https://github-readme-stats.vercel.app/api?username=whire-coder&show_icons=true&hide_border=true&theme=dracula" /> 
 
 ---
-
-### 💻 Has you can see, i work on the following languages:
-<img alt="Rome's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whire-coder&layout=compact)" /> 
